@@ -1,5 +1,9 @@
 # Source Code Management (SCM) / Version Control Systems (VCS)
 Source Code Management (SCM) or Version Control Systems (VCS) are essential tools in modern software development, tracking code changes, facilitating collaboration, and providing rollback mechanisms. SCM is especially beneficial in a DevOps pipeline where multiple team members collaborate, test, and deploy code continuously.
+- This repo is maintained by [Devops with Mike](https://www.youtube.com/@DevOpsWithMike0/videos/)
+- For interview preparation, use this platform [Wandaprep](http://www.wandaprep.com/)
+- Visit my website for more inquiries and support [DevOpswithMike](https://devopswithmike.tech/).
+
 
 ## Types of Version Control Systems
 1. **Centralized Version Control Systems (CVCS)** - Example: Subversion (SVN), Perforce.
